@@ -1,0 +1,6 @@
+.phpintel
+vendor
+resurs/source/*
+resurs/target/*
+resurs/tmp/*
+tmp

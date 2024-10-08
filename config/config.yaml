@@ -1,0 +1,4 @@
+sourceDir: '/resurs/source/'
+targetDir: '/resurs/target/'
+tempDir: '/resurs/tmp/'
+cntEncode: 10
